@@ -1,12 +1,13 @@
 ---
 title: Publications
 layout: default
+nav_order: 2
 ---
 # Overview of scientific publications
 
-## Main papers
-
 ---
+
+## Main author papers
 
 September 2024, *Environmental Research Letters* 
 

@@ -6,3 +6,10 @@ url: https://sinnevdveer.github.io/blog.io
 
 aux_links:
   Github: https://github.com/sinnevdveer/
+
+nav_enabled: true
+
+head_anchors: false
+
+back_to_top: true
+back_to_top_text: "Back to top"
