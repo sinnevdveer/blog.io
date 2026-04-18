@@ -14,3 +14,5 @@ head_anchors: false
 
 back_to_top: true
 back_to_top_text: "Back to top"
+
+math: katex
