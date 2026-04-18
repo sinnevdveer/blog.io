@@ -5,6 +5,9 @@ nav_order: 2
 ---
 # Overview of scientific publications
 
+- TOC
+{:toc}
+
 ---
 
 ## Main author papers
@@ -35,5 +38,3 @@ Indonesia accounts for nearly 30 % of seaweed production worldwide and is one of
 Published: January 2026, *Aquaculture*
 
 [Read full article >](https://www.sciencedirect.com/science/article/pii/S0044848625008300 "read on sciencedirect.com")
-
----
