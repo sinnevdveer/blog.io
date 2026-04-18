@@ -4,8 +4,9 @@ layout: default
 nav_order: 2
 ---
 # Overview of scientific publications
+{:, .no_toc}
 
-- TOC
+TOC
 {:toc}
 
 ---
