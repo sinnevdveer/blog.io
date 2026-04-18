@@ -6,7 +6,7 @@ nav_order: 2
 # Overview of scientific publications
 {:, .no_toc}
 
-TOC
+1. TOC
 {:toc}
 
 ---
