@@ -11,4 +11,6 @@ I am a Quantitative Researcher, pursuing a PhD in Agricultural Economics at Wage
 
 --- 
 
-On this website you will find ...
+## Machine Learning
+
+## Economics
