@@ -6,11 +6,11 @@ nav_order: 1
 
 # About me and my work
 
-I am a Quantitative Researcher, pursuing a PhD in Agricultural Economics at Wageningen University, after working for over 3 years in applied research. Currently, I focus on explaining climate-crop interactions using advanced Machine Learning and Econometrics methods, and uncovering the role of international trade using statistical Network Analysis.
+As a quantitative researcher and PhD candidate at Wageningen University, I explore agricultural economics through econometrics, data science, and machine learning. On this website, I share my thoughts on data science topics and economic trends, alongside my latest publications.
 {: .fs-6 .fw-300 }
 
 --- 
 
-## Machine Learning
+## Data Science and Machine Learning
 
 ## Economics
