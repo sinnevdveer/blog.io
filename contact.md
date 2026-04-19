@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: default
-navnav_order: 4
+navnav_order: 5
 ---
 # Find me on
 
